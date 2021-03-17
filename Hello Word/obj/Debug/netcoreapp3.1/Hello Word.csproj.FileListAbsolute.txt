@@ -1,0 +1,13 @@
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.exe
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.deps.json
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.runtimeconfig.json
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.runtimeconfig.dev.json
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.dll
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\bin\Debug\netcoreapp3.1\Hello Word.pdb
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.csprojAssemblyReference.cache
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.AssemblyInfoInputs.cache
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.AssemblyInfo.cs
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.csproj.CoreCompileInputs.cache
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.dll
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.pdb
+C:\1- Web\EDUARDO CURSO\Hello Word\Hello Word\obj\Debug\netcoreapp3.1\Hello Word.genruntimeconfig.cache
